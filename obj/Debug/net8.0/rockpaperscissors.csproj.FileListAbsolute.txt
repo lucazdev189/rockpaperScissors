@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\coding stuff\rps\rockpaperscissors\bin\Debug\net8.0\rockpaperscissors.exe
+C:\Users\Admin\Downloads\coding stuff\rps\rockpaperscissors\bin\Debug\net8.0\rockpaperscissors.deps.json
+C:\Users\Admin\Downloads\coding stuff\rps\rockpaperscissors\bin\Debug\net8.0\rockpaperscissors.runtimeconfig.json
+C:\Users\Admin\Downloads\coding stuff\rps\rockpaperscissors\bin\Debug\net8.0\rockpaperscissors.dll
+C:\Users\Admin\Downloads\coding stuff\rps\rockpaperscissors\bin\Debug\net8.0\rockpaperscissors.pdb
+C:\Users\Admin\Downloads\coding stuff\rps\rockpaperscissors\obj\Debug\net8.0\rockpaperscissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\coding stuff\rps\rockpaperscissors\obj\Debug\net8.0\rockpaperscissors.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\coding stuff\rps\rockpaperscissors\obj\Debug\net8.0\rockpaperscissors.AssemblyInfo.cs
+C:\Users\Admin\Downloads\coding stuff\rps\rockpaperscissors\obj\Debug\net8.0\rockpaperscissors.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\coding stuff\rps\rockpaperscissors\obj\Debug\net8.0\rockpaperscissors.dll
+C:\Users\Admin\Downloads\coding stuff\rps\rockpaperscissors\obj\Debug\net8.0\refint\rockpaperscissors.dll
+C:\Users\Admin\Downloads\coding stuff\rps\rockpaperscissors\obj\Debug\net8.0\rockpaperscissors.pdb
+C:\Users\Admin\Downloads\coding stuff\rps\rockpaperscissors\obj\Debug\net8.0\rockpaperscissors.genruntimeconfig.cache
+C:\Users\Admin\Downloads\coding stuff\rps\rockpaperscissors\obj\Debug\net8.0\ref\rockpaperscissors.dll
